@@ -94,7 +94,7 @@ class Form{
               gameState=2;
               kbcSound.play();
               line.x=-600;
-            line.velocityX=0;
+            line.velocityX=5;
             this.input.hide();
             this.next2.hide();
             this.info1.hide();
